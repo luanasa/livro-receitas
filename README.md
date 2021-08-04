@@ -1,5 +1,5 @@
 # Livro de receitas da Lua :woman_cook:
 
-Olá! Bem vindos ao meu livro de receitas :happy:
+Olá! Bem vindos ao meu livro de receitas 😄
 
 - Ramen Agridoce
